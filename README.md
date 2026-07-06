@@ -1,12 +1,6 @@
 # Student Registration System
 
 A simple **Student Registration System** developed using **Java Swing**. The application provides a graphical user interface for registering students, selecting courses and subjects, viewing registered records, deleting entries, and clearing the registration list.
-<img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/7688392a-866d-4327-ada1-46426289f625" />
-<img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/34903d9f-e21a-434e-b6d0-7d5f3d078a3f" />
-<img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/b134fc58-9f1b-41db-bdb7-d58f7bf1a4b8" />
-<img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/59aaa9b0-dcc0-48ab-982f-1ed758056e45" />
-<img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/99a76401-fa50-434a-98e6-6ad3a026abc8" />
-<img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/c92aac8e-3e63-445e-8315-7fd4ee314254" />
 
 ---
 
